@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 智能戒指主图测图"
+  short_description: "为智能戒指策划主图、编写出图提示词、审核设计并复盘测图数据"
+  default_prompt: "请使用 $smart-ring-main-image-testing，根据我的产品资料和测图目标，策划本轮主图方案、编写 AI 提示词并给出审核与测试安排。"
